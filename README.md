@@ -1,16 +1,7 @@
 # pro_image_bug
 
-A new Flutter project.
+Run the app and click the floating action button to bring up the dialog.
 
-## Getting Started
+Select the line tool and draw a line and click the check
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+now click the close button on top and you will get an error.
